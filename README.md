@@ -12,9 +12,9 @@ Whether you're a casual player or a Solitaire enthusiast, this timeless game off
 ## LINK DEMO
 <div align='center'>
 
-[Click here to play the game](https://tynab.github.io/Solitaire-Game)
+[Click here to play the game](https://tynab.github.io/Solitaire-Game)g fgf
 
-</div>
+</div> 
 
 ## IMAGE DEMO
 <p align='center'>
